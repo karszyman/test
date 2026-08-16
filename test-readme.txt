@@ -3,6 +3,7 @@ To jest plik testowy do edycji lokalnej.
 Opis repozytorium:
 - to jest testowe repozytorium do nauki SQL,
 - ćwiczenia z commitowania zmian wraz z komentarzem,
+- tworzenie pull request,
 - nauka kontroli wersji w Git,
 - testowanie workflow git status / git add / git commit / git diff.
 
